@@ -1,6 +1,11 @@
 # Awesome-Diffusion-Learning-Repository
 This repository contains a collection of papers on ***Diffusion Learning***.
 
+基于扩散原理的生成模型旨在将先验数据分布转化为随机噪声，然后再一步一步地修正转换重建一个全新的样本，其不需要像VAE那样对齐后验分布，也不需要训练额外的判别器（如GAN），或施加网络约束（如归一化流）。由于上述优点，扩散学习已经在计算机视觉、自然语言处理和图分析等领域引起广泛关注。扩散模型提供了概率参数化的可操作的描述模型，有足够理论支持的稳定训练程序和统一的损失函数设计，具有较高的实用价值。如果想要了解更多关于生成式扩散模型的算法和应用，可以查阅[[Link](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)] 
+
+![idea](https://github.com/chenshuoXu2002/Awesome-Diffusion-Learning-Repository/assets/134117808/98df610f-7581-4dc8-8d36-29e99edbdab8)
+
+
 ## Contents
 - [Resources](#resources)
   - [Introductory Papers](#introductory-papers)
